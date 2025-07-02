@@ -10,8 +10,8 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
+  #### :🌱 I’m currently learning ... <br/>
+  #### :💬 Ask me about <br/>
   <br/>
   <br/>
   
@@ -24,14 +24,10 @@
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br/>
-  
-  ### ETC
-  <br/>
-  
+
   ## 🤔 Github Stats
   [![kim-mijin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-mijin](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-mijin)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
