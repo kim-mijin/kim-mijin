@@ -10,8 +10,8 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### 🌱 I’m currently learning FE <br/>
-  #### 💬 Ask me about <br/>
+  #### 🌱 I’m currently learning Frontend Developer <br/>
+  #### 💬 Ask me about... <br/>
   <br/>
   <br/>
   
